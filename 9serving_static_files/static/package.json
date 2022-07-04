@@ -1,0 +1,18 @@
+{
+  "_from": "kind-of@^6.0.0",
+  "_id": "kind-of@6.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-ARRrNqYhjmTljzqNZt5df8b20FE=",
+  "_location": "/randomatic/kind-of",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "kind-of@^6.0.0",
+    "name": "kind-of",
+    "escapedName": "kind-of",
+    "rawSpec": "^6.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^6.0.0"
+  }
+}
